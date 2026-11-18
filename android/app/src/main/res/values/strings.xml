@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Joker Cipher House</string>
+
+    <string name="title_app">JOKER CIPHER HOUSE</string>
+    <string name="brand">ROYAL JOKER</string>
+    <string name="splash_subtitle">ASSEMBLING THE CASE FILE</string>
+
+    <string name="menu_tagline">READ THE HOUSE. NAME THE PLANNER.</string>
+    <string name="chip_age">18+</string>
+    <string name="menu_footer">FICTIONAL CASES · NO REAL MONEY · 18+</string>
+    <string name="menu_empty">NO CASE CLOSED YET. THE HOUSE KEEPS ITS SECRETS.</string>
+    <string name="menu_chapter_hint">CHAPTER %1$s OF 5 IS OPEN</string>
+
+    <string name="play">PLAY</string>
+    <string name="case_files">CASE FILES</string>
+    <string name="evidence_wall">EVIDENCE WALL</string>
+    <string name="settings">SETTINGS</string>
+    <string name="menu">MENU</string>
+    <string name="inspect">INSPECT</string>
+    <string name="deal_next_clue">DEAL NEXT CLUE</string>
+    <string name="open_evidence_wall">OPEN EVIDENCE WALL</string>
+    <string name="accuse">ACCUSE</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="next_case">NEXT CASE</string>
+    <string name="resume">RESUME</string>
+    <string name="clear_history">CLEAR HISTORY</string>
+    <string name="clear">CLEAR</string>
+    <string name="cancel">CANCEL</string>
+    <string name="standard">STANDARD</string>
+    <string name="large">LARGE</string>
+    <string name="investigator">INVESTIGATOR</string>
+    <string name="inspector">INSPECTOR</string>
+
+    <string name="section_chapter_dossiers">CHAPTER DOSSIERS</string>
+    <string name="section_case_history">CASE HISTORY</string>
+    <string name="section_evidence">EVIDENCE</string>
+    <string name="section_relations">SUSPECT RELATIONSHIPS</string>
+    <string name="section_motive">MOTIVE</string>
+    <string name="history_empty">NO VERDICT RECORDED. THE LEDGER IS CLEAN.</string>
+    <string name="wall_empty">NO CASE OPENED YET. THE WALL IS STILL BARE.</string>
+    <string name="dossier_empty">THE HOUSE HAS SEALED THE REMAINING CHAPTERS.</string>
+
+    <string name="chapter_label">CHAPTER %1$s</string>
+    <string name="chapter_numeral_1">I</string>
+    <string name="chapter_numeral_2">II</string>
+    <string name="chapter_numeral_3">III</string>
+    <string name="chapter_numeral_4">IV</string>
+    <string name="chapter_numeral_5">V</string>
+
+    <string name="stage_counter">STAGE %1$d/4</string>
+    <string name="fragments_counter">FRAGMENTS %1$d</string>
+    <string name="evidence_counter">EVIDENCE %1$d</string>
+    <string name="stage_witness">WITNESS TIMELINES</string>
+    <string name="stage_cipher">THE MARKED CARD</string>
+    <string name="stage_props">FORGED PROPS</string>
+    <string name="stage_interrogation">INTERROGATION</string>
+
+    <string name="house_record">THE HOUSE RECORD</string>
+    <string name="genuine_mark">THE GENUINE MARK</string>
+    <string name="cipher_legend">A=1 · 2 TO 9 AS WRITTEN · J=10 · Q=11 · K=12 · RANK TO LETTER</string>
+    <string name="control_hint">TAP A CLUE CARD TO COMMIT YOUR READING</string>
+    <string name="stamp_secured">EVIDENCE SECURED</string>
+    <string name="stamp_lie">A LIE SLIPS PAST YOU</string>
+    <string name="tile_sealed">SEALED</string>
+    <string name="question_label">PRESS THE SUSPECT</string>
+    <string name="word_options">WHAT DO THE CARDS SPELL</string>
+
+    <string name="verdict_true">TRUE VERDICT</string>
+    <string name="verdict_half">HALF TRUTH</string>
+    <string name="verdict_false">FALSE HAND</string>
+    <string name="verdict_collapsed">CASE COLLAPSED</string>
+    <string name="verdict_true_line">TRUE VERDICT — THE HOUSE IS NAMED</string>
+    <string name="verdict_half_line">HALF TRUTH — THE RIGHT HAND, THE WRONG REASON</string>
+    <string name="verdict_false_line">FALSE HAND — THE PLANNER WALKS</string>
+    <string name="verdict_collapsed_line">CASE COLLAPSED — YOU LOST THE ROOM</string>
+
+    <string name="rank_ruby">RUBY SEAL</string>
+    <string name="rank_gold">GOLD LEAF</string>
+    <string name="rank_ivory">IVORY NOTE</string>
+    <string name="rank_ash">ASH</string>
+
+    <string name="stat_cases_closed">CASES CLOSED</string>
+    <string name="stat_true_verdicts">TRUE VERDICTS</string>
+    <string name="stat_best_rank">BEST RANK</string>
+    <string name="stat_rank">RANK</string>
+    <string name="stat_score">SCORE</string>
+    <string name="stat_composure">COMPOSURE</string>
+    <string name="composure_value">%1$d/%2$d</string>
+    <string name="score_value">%1$d</string>
+
+    <string name="settings_readability_title">CLUE READABILITY</string>
+    <string name="settings_readability_body">LARGE RAISES EVERY CLUE LINE BY A FIFTH ON CARDS, TILES AND DOSSIERS.</string>
+    <string name="settings_difficulty_title">CASE DIFFICULTY</string>
+    <string name="settings_difficulty_body">INSPECTOR LEAVES YOU TWO COMPOSURE MARKS AND LOCKS THE LENS.</string>
+    <string name="settings_legend_title">CIPHER LEGEND</string>
+    <string name="settings_legend_body">KEEP THE RANK TO LETTER KEY PINNED ABOVE THE MARKED CARDS.</string>
+    <string name="settings_clear_title">CLEAR CASE HISTORY</string>
+    <string name="settings_clear_body">WIPE EVERY RECORDED VERDICT FROM THE HOUSE LEDGER.</string>
+
+    <string name="dialog_pause_title">THE CASE IS HELD</string>
+    <string name="dialog_pause_body">THE HOUSE WAITS. NOTHING RUNS WHILE YOU THINK.</string>
+    <string name="dialog_clear_title">CLEAR THE LEDGER</string>
+    <string name="dialog_clear_body">EVERY RECORDED VERDICT WILL BE REMOVED. CHAPTER LOCKS STAY AS THEY ARE.</string>
+
+    <string name="cd_logo">HOUSE EMBLEM</string>
+    <string name="cd_pause">HOLD THE CASE</string>
+    <string name="cd_dossier">SEALED DOSSIER</string>
+    <string name="cd_marked_card">MARKED PLAYING CARD</string>
+    <string name="cd_prop">HOUSE PROP</string>
+    <string name="cd_suspect">SUSPECT PORTRAIT</string>
+    <string name="cd_lens">BRASS LENS</string>
+
+    <string name="sd_locked">LOCKED</string>
+    <string name="sd_unlocked">UNLOCKED</string>
+    <string name="sd_composure">COMPOSURE %1$d OF %2$d</string>
+    <string name="sd_inspect_blocked">LOCKED, NEEDS TWO FRAGMENTS</string>
+    <string name="sd_accuse_blocked">MARK ONE SUSPECT AND ONE MOTIVE</string>
+    <string name="sd_suspect_marked">MARKED AS SUSPECT</string>
+    <string name="sd_suspect_cleared">CLEARED</string>
+    <string name="sd_suspect_none">NOT MARKED</string>
+    <string name="sd_selected">SELECTED</string>
+    <string name="sd_not_selected">NOT SELECTED</string>
+    <string name="sd_verified">VERIFIED</string>
+    <string name="sd_unverified">UNVERIFIED</string>
+    <string name="sd_sealed">STILL SEALED</string>
+</resources>
